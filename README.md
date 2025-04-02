@@ -73,6 +73,7 @@ ESP32_Water_Pump_Automation/
 ├── websocket.h                        # WebSocket server for real-time updates
 ├── filesystem.h                       # SPIFFS init, default user/state creation
 ├── ui.h                               # Inline HTML/CSS/JS frontend
+├── wifi_manager.h                     # Contains logic that reconnects wifi on disconnection
 └── README.md                          # Project documentation
 ```
 
